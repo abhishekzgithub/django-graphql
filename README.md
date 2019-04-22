@@ -7,7 +7,7 @@ First you'll need to get the source of the project. Do this by cloning the repos
 
 ```bash
 # Get the project code
-git clone https://github.com/Moesif/moesif-graphene-django-example.git
+https://github.com/abhishekzgithub/django-graphql.git
 ```
 
 *NOTE: While working with Python, we would recommend to use virtual environment
